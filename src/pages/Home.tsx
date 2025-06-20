@@ -204,7 +204,7 @@ const services = [
                   </Link>
                 </div>
               </div>
-            ))}                               // font-bold italic
+            ))}                              
           </div>
         </div>
       </section>
